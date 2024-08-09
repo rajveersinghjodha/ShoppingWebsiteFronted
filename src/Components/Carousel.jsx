@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function carousel() {
+function Carousel() {
   return (
     <>
       <div
@@ -64,4 +64,4 @@ function carousel() {
   );
 }
 
-export default carousel;
+export default Carousel;

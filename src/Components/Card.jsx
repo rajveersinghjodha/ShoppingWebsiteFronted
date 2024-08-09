@@ -9,7 +9,7 @@ function Card(props) {
         <img src="/public/IMG_20210110_065610 - Copy.jpg" className="card-img-top" alt="..." />
         <img src={image} className="card-img-top" alt="..." />
         <div className="card-body">
-          <h5 className="card-title">Chitrarekha Voguish Sarees </h5>
+          <h5 className="card-title">our products</h5>
           <p className="card-text">
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
