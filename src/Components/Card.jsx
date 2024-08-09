@@ -5,7 +5,7 @@ function Card(props) {
 
   return (
     <>
-      <div className="card" style={{ width: "18rem" }}>
+      <div className="card" style={{ width: "18rem" }} > 
         <img src="/public/IMG_20210110_065610 - Copy.jpg" className="card-img-top" alt="..." />
         <img src={image} className="card-img-top" alt="..." />
         <div className="card-body">
